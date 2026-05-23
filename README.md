@@ -26,9 +26,53 @@ Electronics and Communication Engineering.
 
 # PROJECTS
 
-# -IDIYANALE NPK Monitoring System 
+# Idiyane NPK Monitoring System 
 
 At the start of our second semester, Mr. 
 Kodic De Guzman our physics 1 and 2 instructor
 and Mr. Julius Faustino our CFPROG instructor 
 asked us to create a project using Arduino 
+for our exhibit. It was pur first project,
+so at first, I felt nervous and challenge
+because I don't have any idea to build a 
+project involving both programming and 
+electronics. We spent many days to do our 
+project, we do testing and fixing errors
+There were times when our project did not 
+work properly,but our leader did not give 
+up and tried his best so that we could present
+something during exhibit. Through hard work, we 
+successfully finished our project and presented 
+it during our exhibit last March 25, 2026.
+The exhibit became a memorable experience for me 
+because we were able to demonstrate our skills
+front of other people.
+
+Our project was about an NPK sensor connected to
+an Arduino Uno. The NPK sensor is very helpful for 
+agriculturists and farmers because it measures the 
+nutrients found in the soil, specifically Nitrogen
+(N), Phosphorus (P), and Potassium (K). These 
+three nutrients are very important for plant growth 
+and healthy crops. Nitrogen helps plants grow green 
+leaves, phosphorus strengthens the roots and supports 
+flowering, while potassium helps plants become 
+stronger and healthier.
+
+The NPK sensor helps farmers easily check whether 
+the soil still has enough nutrients or already needs 
+fertilizer. Instead of simply guessing, the sensor 
+provides more accurate information about the condition 
+of the soil. Because of this, farmers can save time, 
+money, and effort. It can also improve the quality of 
+crops and prevent the overuse of fertilizers that 
+may damage the soil and the environment.
+
+This project helped us understand how technology can 
+help people, especially in agriculture. It also taught
+ us the importance of teamwork, problem-solving, and 
+perseverance. Even though the project was difficult, 
+I felt proud and happy for my groupmates because 
+we successfully created something useful that can help 
+many people in the future.
+
