@@ -1,9 +1,9 @@
-# Charlize 
+# CHARLIZE ALAS
 ## Charlize Alas
--ECE studenf at Fullbright college
+- ECE studenf at Fullbright college
 
 # MORE ABOUT ME 
--I am a first-year Electronics 
+- I am a first-year Electronics 
 Engineering student currently 
 enrolled at Full Bright College
 
