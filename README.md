@@ -1,6 +1,6 @@
 # CHARLIZE ALAS
 - ECE student at Fullbright college
-> *"Progress over Perfection"
+> *"Progress over Perfection"*
 
 # MORE ABOUT ME 
 - I am a first-year Electronics 
