@@ -1,15 +1,16 @@
 # CHARLIZE ALAS
-- ECE student at Fullbright college
+- STUDENT
 > *"Progress over Perfection"*
 
 # MORE ABOUT ME 
-- I am a first-year Electronics 
-Engineering student currently 
-enrolled at Full Bright College
-- single
-- study hard 
-- focus on acads
+- I am a first-year student at 
+Fullbright College taking up 
+Electronics and Communication Engineering.
 
-# CURRENT FOCUS
+
+# CURRENT FOCUS 
 - C++ Programming language
 - Arduino Uno
+- tinkercad
+- PCB design
+- easyEDA
