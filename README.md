@@ -1,6 +1,6 @@
 # CHARLIZE ALAS
 ## Charlize Alas
-- ECE studenf at Fullbright college
+- ECE student at Fullbright college
 
 # MORE ABOUT ME 
 - I am a first-year Electronics 
