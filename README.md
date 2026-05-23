@@ -1,6 +1,8 @@
-# Charlize Alas 
-## Charlize Alas 
-**I believe that with faith, perseverance, 
-and hard work, I will overcome every 
-challenge and achieve 
-my goals in life.**
+# Charlize 
+## Charlize Alas
+-ECE studenf at Fullbright college
+#MORE ABOUT ME 
+-I am a first-year Electronics 
+Engineering student currently 
+enrolled at Full Bright College
+
