@@ -1,5 +1,5 @@
 # CHARLIZE ALAS
-## Charlize Alas
+## "Charlize Alas"
 - ECE student at Fullbright college
 
 # MORE ABOUT ME 
@@ -7,3 +7,6 @@
 Engineering student currently 
 enrolled at Full Bright College
 
+# CURRENT FOCUS
+- C++ Programming language
+- Arduino Uno
