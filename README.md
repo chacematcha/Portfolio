@@ -1,5 +1,5 @@
 # CHARLIZE ALAS
-## "Charlize Alas"
+## Charlize Alas
 - ECE student at Fullbright college
 
 # MORE ABOUT ME 
