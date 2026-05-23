@@ -7,6 +7,8 @@
 Fullbright College taking up 
 Electronics and Communication Engineering.
 
+# PERSONAL INFORMATION
+
 | NAME         | Charlize Arreza Alas |
 | ------------- | -------------------- |
 | Birthday       | July 10, 2006 |
@@ -21,3 +23,9 @@ Electronics and Communication Engineering.
 - tinkercad
 - PCB design
 - easyEDA
+
+# PROJECTS
+-IDIYANALE NPK Monitoring System 
+## At the start of our second semester, Mr. 
+Kodic De Guzman our physics 1 and 2 instructor
+and Mr. Julius Faustino our CFPROG instructor 
