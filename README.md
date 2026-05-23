@@ -7,7 +7,7 @@
 Fullbright College taking up 
 Electronics and Communication Engineering.
 
-| NAME          | Charlize Arreza Alas |
+| NAME         | Charlize Arreza Alas |
 | ------------- | -------------------- |
 | Birthday       | July 10, 2006 |
 | Age            | 19 yrs old |
