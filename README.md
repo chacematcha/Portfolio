@@ -6,6 +6,9 @@
 - I am a first-year Electronics 
 Engineering student currently 
 enrolled at Full Bright College
+- single
+- study hard 
+- focus on acads
 
 # CURRENT FOCUS
 - C++ Programming language
