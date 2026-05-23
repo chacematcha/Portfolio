@@ -8,12 +8,19 @@ Fullbright College taking up
 Electronics and Communication Engineering.
 
 # PERSONAL INFORMATION
+|-----------|------------------------|
 | NAME      |  Charlize Arreza Alas |
+|-----------|-----------------------|
 |Birthday   | July 10, 2006        |
+|-----------|------------------------|
 | Age  | 19 yrs old |
+|------|-------------|
 | Email Address | charlizealas3@gmail.com|
+|----------------|-------------------------|
 | Home Address| Cantilan, Surigao Del Sur |
+|-------------|-----------------------------|
 | Contact Number | 09317263449 |
+|----------------|-------------|
 
 # CURRENT FOCUS 
 - C++ Programming language
