@@ -24,9 +24,9 @@ Electronics and Communication Engineering.
 - PCB design
 - easyEDA
 
-# PROJECTS
+# PROJECT
 
-# Idiyane NPK Monitoring System 
+# Idiyanale NPK Monitoring System 
 
 At the start of our second semester, Mr. 
 Kodic De Guzman our physics 1 and 2 instructor
@@ -75,4 +75,16 @@ perseverance. Even though the project was difficult,
 I felt proud and happy for my groupmates because 
 we successfully created something useful that can help 
 many people in the future.
+
+# GOAL
+As a student, my goal is to graduate on time and prove 
+to myself that I am capable of achieving my dreams. 
+I know that this journey will not be easy and that reaching 
+my goals will require time, effort, and sacrifices, but 
+I will continue trying and never stop learning. I also 
+believe that someday I will become better at the things that
+ I still find difficult to understand today. As a freshmen, 
+I believe that with faith, perseverance, and hard work, I 
+will overcome every challenge and achieve my goals in life.
+
 
