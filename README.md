@@ -32,14 +32,14 @@ At the start of our second semester, Mr.
 Kodic De Guzman our physics 1 and 2 instructor
 and Mr. Julius Faustino our CFPROG instructor 
 asked us to create a project using Arduino 
-for our exhibit. It was pur first project,
-so at first, I felt nervous and challenge
-because I don't have any idea to build a 
-project involving both programming and 
+for our exhibit. It was our first project in 
+second semester,so at first, I felt nervous and 
+challenge because I don't have any idea to build
+a project involving both programming and 
 electronics. We spent many days to do our 
 project, we do testing and fixing errors
 There were times when our project did not 
-work properly,but our leader did not give 
+work properly, but our leader Renie did not give 
 up and tried his best so that we could present
 something during exhibit. Through hard work, we 
 successfully finished our project and presented 
@@ -49,10 +49,10 @@ because we were able to demonstrate our skills
 front of other people.
 
 Our project was about an NPK sensor connected to
-an Arduino Uno. The NPK sensor is very helpful for 
-agriculturists and farmers because it measures the 
-nutrients found in the soil, specifically Nitrogen
-(N), Phosphorus (P), and Potassium (K). These 
+an Arduino Uno and other components.The NPK sensor 
+is very helpful for agriculturists and farmers because 
+it measures the nutrients found in the soil, specifically 
+Nitrogen (N), Phosphorus (P), and Potassium (K). These 
 three nutrients are very important for plant growth 
 and healthy crops. Nitrogen helps plants grow green 
 leaves, phosphorus strengthens the roots and supports 
